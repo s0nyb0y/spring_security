@@ -1,4 +1,4 @@
-package com.radik.spring_security.lesson1.configuration;
+package com.radik.spring_security.lesson3.configuration;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 

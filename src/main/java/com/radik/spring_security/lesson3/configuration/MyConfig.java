@@ -1,4 +1,4 @@
-package com.radik.spring_security.lesson1.configuration;
+package com.radik.spring_security.lesson3.configuration;
 
 import com.mchange.v2.c3p0.ComboPooledDataSource;
 import org.springframework.context.annotation.Bean;
@@ -12,7 +12,7 @@ import javax.sql.DataSource;
 import java.beans.PropertyVetoException;
 
 @Configuration
-@ComponentScan(basePackages = "com.radik.spring_security.lesson1")
+@ComponentScan(basePackages = "com.radik.spring_security.lesson3")
 @EnableWebMvc
 public class MyConfig {
     @Bean
