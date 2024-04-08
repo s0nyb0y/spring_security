@@ -1,4 +1,4 @@
-package com.radik.spring_security.lesson3.configuration;
+package com.radik.spring_security.lesson2.configuration;
 
 import org.springframework.security.web.context.AbstractSecurityWebApplicationInitializer;
 
